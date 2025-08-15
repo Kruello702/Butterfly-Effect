@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../AppData/LocalLow/Meta/Horizon Worlds/648622771678831/scripts"
+		}
+	],
+	"settings": {
+		"typescript.enablePromptUseWorkspaceTsdk": true,
+		"typescript.tsdk": "./node_modules/typescript/lib"
+	}
+}
